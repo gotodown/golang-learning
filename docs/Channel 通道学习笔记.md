@@ -48,7 +48,7 @@ select {
 
 `Channel` 常见的异常总结，如
 
-![异常](/home/ljd/files/code/golang-learning/docs/imgs/channel异常总结.png "channel 异常总结")
+![异常](./imgs/channel异常总结.png "channel 异常总结")
 
 
 
