@@ -1,0 +1,88 @@
+{
+    "code": 0,
+    "message": "0",
+    "ttl": 1,
+    "data": {
+        "bvid": "BV1Qz4y1U7VY",
+        "aid": 586177001,
+        "videos": 1,  //视频数
+        "tid": 176,  
+        "tname": "汽车", // 分类
+        "copyright": 1,
+        "pic": "http://i1.hdslb.com/bfs/archive/d4590f6c97cad13e972e54d80e0a4a60f90a8c43.jpg",
+        "title": "【无聊的开箱】特斯拉或成最新财富密码，男同事竟然靠model Y实现财务自由", //标题 
+        "pubdate": 1611071054,  // 上传时间
+        "ctime": 1611071054,    
+        "desc": "特斯拉秒变娱乐会所，四个同事竟然在车上做这样的事情...",
+        "state": 0,
+        "duration": 331,
+        "mission_id": 15640,
+        "rights": {
+            "bp": 0,
+            "elec": 0,
+            "download": 1,
+            "movie": 0,
+            "pay": 0,
+            "hd5": 1,
+            "no_reprint": 1,
+            "autoplay": 1,
+            "ugc_pay": 0,
+            "is_cooperation": 0,
+            "ugc_pay_preview": 0,
+            "no_background": 0,
+            "clean_mode": 0,
+            "is_stein_gate": 0
+        },
+        "owner": {
+            "mid": 177613639,
+            "name": "无聊的开箱",
+            "face": "http://i1.hdslb.com/bfs/face/8b9f16628200b3711ae22d3e678ea7f29a1b1205.jpg"
+        },
+        "stat": {
+            "aid": 586177001,
+            "view": 78809,
+            "danmaku": 354,
+            "reply": 191,
+            "favorite": 435,
+            "coin": 1341,
+            "share": 222,
+            "now_rank": 0,
+            "his_rank": 0,
+            "like": 7924,
+            "dislike": 0,
+            "evaluation": "",
+            "argue_msg": ""
+        },
+        "dynamic": "#汽车玩家招募令##特斯拉#特斯拉秒变娱乐会所，四个同事竟然在车上做这样的事情...",
+        "cid": 284699520,
+        "dimension": {
+            "width": 1920,
+            "height": 1080,
+            "rotate": 0
+        },
+        "no_cache": false,
+        "pages": [
+            {
+                "cid": 284699520,
+                "page": 1,
+                "from": "vupload",
+                "part": "b站_1(4)",
+                "duration": 331,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                }
+            }
+        ],
+        "subtitle": {
+            "allow_submit": false,
+            "list": []
+        },
+        "user_garb": {
+            "url_image_ani_cut": ""
+        }
+    }
+}

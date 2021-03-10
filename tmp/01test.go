@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-func main() {
+func main1() {
 	timeTest()
 }
 
@@ -23,5 +23,5 @@ func timeTest() {
 
 	ret := time.Unix(1586594190217526622, 0)
 	fmt.Println(ret)
-	fmt.Println(time.Unix())
+	// fmt.Println(time.Unix())
 }

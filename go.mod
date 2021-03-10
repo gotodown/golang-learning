@@ -3,14 +3,19 @@ module liujiadong.com/v1
 go 1.14
 
 require (
-	github.com/go-sql-driver/mysql v1.5.0 // indirect
-	github.com/imdario/mergo v0.3.9 // indirect
-	github.com/jmoiron/sqlx v1.2.0 // indirect
-	github.com/shirou/gopsutil v2.20.5+incompatible
-	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d // indirect
-	golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1 // indirect
-	k8s.io/api v0.18.2 // indirect
-	k8s.io/apimachinery v0.18.2
-	k8s.io/client-go v11.0.0+incompatible
-	k8s.io/utils v0.0.0-20200414100711-2df71ebbae66 // indirect
+	github.com/PuerkitoBio/goquery v1.6.1
+	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
+	github.com/go-ole/go-ole v1.2.4 // indirect
+	github.com/go-sql-driver/mysql v1.5.0
+	github.com/gotodown/gospider v0.0.0-20210112103001-b63f02b995aa
+	github.com/jmoiron/sqlx v1.2.0
+	github.com/prometheus/client_golang v1.9.0
+	github.com/prometheus/common v0.15.0
+	github.com/shirou/gopsutil v3.20.12+incompatible
+	github.com/zhshch2002/goreq v0.0.0-20210109112404-8e21489d9561
+	github.com/zhshch2002/goribot v0.1.9
+	github.com/zhshch2002/gospider v0.0.0-20201108142813-9a09da82fe9f
+	gocloud.dev v0.21.0
+	gorm.io/driver/postgres v1.0.6
+	gorm.io/gorm v1.20.11
 )
